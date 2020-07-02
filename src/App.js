@@ -25,7 +25,7 @@ library.add(
 
 function App() {
   return (
-    <Router>
+    <Router basename={process.env.PUBLIC_URL}>
       <UserProvider>
         <div className="App">
           <div className="container pt-5">
