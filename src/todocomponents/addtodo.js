@@ -127,9 +127,9 @@ const AddTodo = () => {
           <TodoList />
           <div className="card-footer mt-2">
             <div className="row">
-              <div className="col-md-5">Total Todos : {recordCount}</div>
-              <div className="col-md-5">Pending : {pending}</div>
-              <div className="col-md-2">
+              <div className="col-md-5 col">Total : {recordCount}</div>
+              <div className="col-md-5 col">Pending : {pending}</div>
+              <div className="col-md-2 col-12 pt-2 pt-md-0">
                 <div
                   className="d-block h-100 text-center"
                   title="logout"
