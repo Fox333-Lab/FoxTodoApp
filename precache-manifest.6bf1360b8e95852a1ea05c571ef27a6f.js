@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0aca340380ab6f883683c68e946565df",
+    "revision": "f518f8f447ad4c6cff4333b98ebc9c4b",
     "url": "/FoxTodoApp/index.html"
   },
   {
-    "revision": "1068ff1929cbb276bd73",
+    "revision": "fea94ebaa430d6e2ca9e",
     "url": "/FoxTodoApp/static/css/main.27fd15f6.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/FoxTodoApp/static/js/2.d38aa328.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "1068ff1929cbb276bd73",
-    "url": "/FoxTodoApp/static/js/main.4fdaef63.chunk.js"
+    "revision": "fea94ebaa430d6e2ca9e",
+    "url": "/FoxTodoApp/static/js/main.2bf7db52.chunk.js"
   },
   {
     "revision": "ecef325bc1748007d0cf",
